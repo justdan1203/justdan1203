@@ -2,7 +2,7 @@
   Hi there 👋
 </header>
 
-<div color=red>aaaaaaaaaaaa</div>
+<div color = "red">aaaaaaaaaaaa</div>
 
 
 <!--
